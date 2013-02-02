@@ -17,3 +17,4 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-backbone-routes');
 ```
 
+![screenshot](https://raw.github.com/p-baleine/grunt-backbone-routes/master/screenshot.png)
