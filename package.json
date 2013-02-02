@@ -1,0 +1,28 @@
+{
+  "name": "grunt-backbone-routes",
+  "description": "List routes of Backbone.Router.",
+  "author": {
+    "name": "Tajima Junpei",
+    "email": "p.baleine@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:p-baleine/grunt-backbone-routes.git"
+  },
+  "contributors": [],
+  "version": "0.0.1",
+  "main": "grunt.js",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "colors": "*"
+  },
+  "devDependencies": {
+    "grunt": "0.3.x"
+  },
+  "keywords": [
+    "gruntplugin",
+    "backbone"
+  ]
+}
